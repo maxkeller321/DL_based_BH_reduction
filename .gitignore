@@ -1,0 +1,6 @@
+lightning_logs
+.vscode
+user_specific
+logs
+models/__pycache__
+build
